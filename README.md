@@ -53,9 +53,13 @@ Once a sample has been recorded using the a record module, it is made available 
 #### Keyboard Shortcuts
 
 \ : Toggle Full Screen
+
 ESC : Start/Stop Audio
+
 TAB : Shift Module Focus
+
 0-9 : Recall a Scene
+
 [shift] + 0-9 : Store a Scene
 
 #### Integrating MIDI/OSC Controllers
